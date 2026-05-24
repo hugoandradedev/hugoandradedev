@@ -8,7 +8,7 @@ Specialist in Artificial Intelligence, intelligent automation, scalable AI archi
 
 <br>
 
-[Portfolio](https://www.hoandrade.dev) • [LinkedIn](https://www.linkedin.com/in/hugoandradedev/) • [E-mail](mailto:hugo@hoandradedev.com)
+[Portfolio](https://www.hoandrade.dev) • [LinkedIn](https://www.linkedin.com/in/hugoandradedev/) • [E-mail](mailto:hugo@hoandrade.dev)
 
 </div>
 
