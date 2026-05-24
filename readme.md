@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hugo Andrade
+# Hello, I'm Hugo Andrade 👋
 
-### AI Engineer • Backend Developer • AI Systems Builder
+### AI Engineer • AI Systems Builder
 
-Building scalable AI architectures, intelligent automation systems, and modern digital products powered by artificial intelligence.
+Specialist in Artificial Intelligence, intelligent automation, scalable AI architectures, and modern AI-powered applications.
 
 <br>
 
@@ -17,7 +17,7 @@ Building scalable AI architectures, intelligent automation systems, and modern d
 ## About Me
 
 - AI Engineer focused on applied artificial intelligence and intelligent systems
-- Building scalable AI-powered applications with modern backend architectures
+- Building scalable AI-powered applications with modern architectures
 - Passionate about AI agents, RAG pipelines, NLP, Agno, and intelligent automation
 - Combining engineering, AI, automation, and sophisticated user experiences
 - Currently focused on production-ready AI systems and scalable architectures
@@ -27,7 +27,7 @@ Building scalable AI architectures, intelligent automation systems, and modern d
 ## What I'm Building
 
 - AI-powered SaaS platforms
-- Intelligent backend systems
+- Intelligent systems
 - AI agents and autonomous workflows
 - Multi-agent systems with Agno
 - RAG pipelines with LangChain
@@ -71,7 +71,7 @@ Building scalable AI architectures, intelligent automation systems, and modern d
 - NLP
 - Computer Vision
 - Intelligent Automation
-- Scalable Backend Architectures
+- Scalable AI Architectures
 - AI Product Engineering
 
 ---
@@ -84,6 +84,10 @@ Building scalable AI architectures, intelligent automation systems, and modern d
 
 <div align="center">
 
-### hoandrade.dev
+## Explore My Portfolio
+
+<a href="https://www.hoandrade.dev" target="_blank">
+  <img src="https://img.shields.io/badge/hoandrade.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 </div>
