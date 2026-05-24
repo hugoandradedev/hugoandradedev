@@ -18,7 +18,7 @@ Specialist in Artificial Intelligence, intelligent automation, scalable AI archi
 
 - AI Engineer focused on applied artificial intelligence and intelligent systems
 - Building scalable AI-powered applications with modern architectures
-- Passionate about AI agents, RAG pipelines, NLP, Agno, and intelligent automation
+- Passionate about AI agents, RAG pipelines, NLP, Agno, Langchain and intelligent automation
 - Combining engineering, AI, automation, and sophisticated user experiences
 - Currently focused on production-ready AI systems and scalable architectures
 
