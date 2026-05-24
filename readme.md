@@ -65,7 +65,6 @@ Specialist in Artificial Intelligence, intelligent automation, scalable AI archi
 - AI Engineering
 - AI Agents
 - Multi-Agent Systems
-- Agno Framework
 - RAG Architectures
 - Generative AI
 - NLP
