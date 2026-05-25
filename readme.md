@@ -1,10 +1,8 @@
-<video src="https://github.com/hugoandradedev/hugoandradedev/raw/main/assets/AI_Engineer_title_animation_loop_202605250329.mp4"
-       autoplay
-       loop
-       muted
-       playsinline
-       width="100%">
-</video>
+<div align="center">
+
+<p align="center">
+  <img src="./assets/AI_Engineer_title_animation_loop_202605250329.gif" width="100%" />
+</p>
 
 # Hugo Andrade 👋
 
