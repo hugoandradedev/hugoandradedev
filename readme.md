@@ -46,15 +46,13 @@ class HugoAndrade:
 ---
 
 ## What I'm Building
-'''txt
+
+<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
+
 - AI-powered SaaS platforms
 - Autonomous AI workflows
 - Multi-agent systems with Agno
 - RAG architectures with LangChain
-- Intelligent automation pipelines
-- NLP & Computer Vision applications
-- Scalable AI backend infrastructures
-- Premium AI product experiences'''
 
 ---
 
