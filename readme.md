@@ -5,8 +5,8 @@
 ### AI Engineer • AI Systems Builder
 
 Building intelligent systems, AI-powered applications, autonomous workflows, and scalable architectures focused on performance, sophistication, and real-world impact.
-<br>
 
+<br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.hoandrade.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugoandradedev/)
 [![E-mail](https://img.shields.io/badge/E--mail-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo@hoandrade.dev)
@@ -63,8 +63,6 @@ class HugoAndrade:
 
 ## AI & Backend Stack
 
-<div align="center">
-
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django)
@@ -74,20 +72,14 @@ class HugoAndrade:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
 
-</div>
-
 ---
 
 ## Frontend
-
-<div align="center">
 
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss)
-
-</div>
 
 ---
 
@@ -110,11 +102,7 @@ class HugoAndrade:
 
 ## Philosophy
 
-<div align="center">
-
-Building technology that combines intelligence, engineering, automation, and sophisticated user experiences.
-
-</div>
+> Building technology that combines intelligence, engineering, automation, and sophisticated user experiences.
 
 ---
 
