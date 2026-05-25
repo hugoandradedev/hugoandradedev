@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/hugoandradedev/hugoandradedev/main/assets/AI_Engineer_title_animation_loop_202605250352.gif" width="100%" />
-
 # Hugo Andrade 👋
 
 ### AI Engineer • AI Systems Builder
@@ -129,5 +126,11 @@ Discover AI systems, intelligent products, scalable architectures, and premium d
 <a href="https://www.hoandrade.dev" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hugoandradedev/hugoandradedev/main/assets/AI_Engineer_title_animation_loop_202605250352.gif" width="100%" />
 
 </div>
