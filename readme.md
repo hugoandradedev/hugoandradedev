@@ -10,7 +10,7 @@ Building intelligent systems, AI-powered applications, autonomous workflows, and
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.hoandrade.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugoandradedev/)
 [![E-mail](https://img.shields.io/badge/E--mail-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo@hoandrade.dev)
-<br><br>
+<br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%3E+Initializing+AI+Assistant...;%3E+Hello%2C+I'm+Hugo+Andrade;%3E+AI+Engineer+%26+Systems+Builder;%3E+Building+intelligent+digital+experiences" />
 
 </div>
