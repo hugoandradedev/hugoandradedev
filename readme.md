@@ -1,9 +1,3 @@
-<div align="center">
-
-<p align="center">
-  <img src="./assets/AI_Engineer_title_animation_loop_202605250329.gif" width="100%" />
-</p>
-
 # Hugo Andrade 👋
 
 ### AI Engineer • AI Systems Builder
