@@ -1,1 +1,9 @@
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hugoandradedev&bg_color=0d1117&color=ffffff&line=ffffff&point=888888&area=true&hide_border=true" />
+## GitHub Insights
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugoandradedev&theme=github_dark" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hugoandradedev&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hugoandradedev&theme=github_dark&utcOffset=-3" />
