@@ -5,12 +5,15 @@
 ### AI Engineer • AI Systems Builder
 
 Building intelligent systems, AI-powered applications, autonomous workflows, and scalable architectures focused on performance, sophistication, and real-world impact.
+
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.hoandrade.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugoandradedev/)
 [![E-mail](https://img.shields.io/badge/E--mail-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo@hoandrade.dev)
+
 <br>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%3E+Initializing+AI+Assistant...;%3E+Hello%2C+I'm+Hugo+Andrade+%F0%9F%91%8B;%3E+AI+Engineer+%26+Systems+Builder;%3E+Building+intelligent+digital+experiences" />
 
 </div>
@@ -100,6 +103,22 @@ class HugoAndrade:
 
 ---
 
+## GitHub Analytics
+
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugoandradedev&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af&icon_color=ffffff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoandradedev&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hugoandradedev&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
+
+---
+
+## Activity Graph
+
+![Hugo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hugoandradedev&theme=github-compact&hide_border=true)
+
+---
+
 ## Philosophy
 
 > Building technology that combines intelligence, engineering, automation, and sophisticated user experiences.
@@ -111,6 +130,7 @@ class HugoAndrade:
 ## 🚀 Explore My Portfolio
 
 Discover AI systems, intelligent products, scalable architectures, and premium digital experiences built with engineering, automation, and applied artificial intelligence.
+
 <br>
 
 <a href="https://www.hoandrade.dev" target="_blank">
