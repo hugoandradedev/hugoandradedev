@@ -8,15 +8,15 @@ Building intelligent systems, AI-powered applications, autonomous workflows, and
 
 <br>
 
-<a href="https://www.hoandrade.dev" target="_blank">
+<a href="https://www.hoandrade.dev" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/hugoandradedev/" target="_blank">
+<a href="https://www.linkedin.com/in/hugoandradedev/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:hugo@hoandrade.dev">
+<a href="mailto:hugo@hoandrade.dev" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/E--mail-111111?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -119,7 +119,7 @@ class HugoAndrade:
 
 ## Explore My Portfolio
 
-<a href="https://www.hoandrade.dev" target="_blank">
+<a href="https://www.hoandrade.dev" target="_blank" style="text-decoration: none; color: white;">
   www.hoandrade.dev
 </a>
 
