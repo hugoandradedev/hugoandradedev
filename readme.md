@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hugoandradedev/hugoandradedev/main/assets/AI_Engineer_title_animation_loop_202605250352.gif" width="100%" />
+
 # Hugo Andrade 👋
 
 ### AI Engineer • AI Systems Builder
