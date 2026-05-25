@@ -5,7 +5,6 @@
 ### AI Engineer • AI Systems Builder
 
 Building intelligent systems, AI-powered applications, autonomous workflows, and scalable architectures focused on performance, sophistication, and real-world impact.
-
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.hoandrade.dev)
@@ -13,6 +12,23 @@ Building intelligent systems, AI-powered applications, autonomous workflows, and
 [![E-mail](https://img.shields.io/badge/E--mail-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo@hoandrade.dev)
 <br><br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI+Agents+%7C+RAG+%7C+Automation;Scalable+AI+Architectures;Generative+AI+%26+Intelligent+Systems;Building+Technology+That+Feels+Inevitable" />
+
+<br><br>
+
+```bash
+> initializing AI assistant...
+
+👋 Hello, visitor.
+My name is Hugo Andrade.
+
+AI Engineer specialized in:
+→ Intelligent Systems
+→ AI Agents
+→ RAG Architectures
+→ Scalable AI Products
+
+Status: Building the future with AI.
+```
 
 </div>
 
@@ -48,16 +64,18 @@ class HugoAndrade:
 ---
 
 ## What I'm Building
+
 ```txt
-- AI-powered SaaS platforms
-- Autonomous AI workflows
-- Multi-agent systems with Agno
-- RAG architectures with LangChain
-- Intelligent automation pipelines
-- NLP & Computer Vision applications
-- Scalable AI backend infrastructures
-- Premium AI product experiences
+→ AI-powered SaaS platforms
+→ Autonomous AI workflows
+→ Multi-agent systems with Agno
+→ RAG architectures with LangChain
+→ Intelligent automation pipelines
+→ NLP & Computer Vision applications
+→ Scalable AI backend infrastructures
+→ Premium AI product experiences
 ```
+
 ---
 
 ## AI & Backend Stack
