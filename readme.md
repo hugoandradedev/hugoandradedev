@@ -13,7 +13,6 @@ Building intelligent systems, AI-powered applications, autonomous workflows, and
 [![E-mail](https://img.shields.io/badge/E--mail-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo@hoandrade.dev)
 
 <br><br>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=AI+Agents+%7C+RAG+%7C+Automation;Scalable+AI+Architectures;Generative+AI+%26+Intelligent+Systems;Building+Technology+That+Feels+Inevitable" />
 
 </div>
