@@ -11,11 +11,11 @@ Building intelligent systems, AI-powered applications, autonomous workflows, and
 <a href="https://www.hoandrade.dev" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/hugoandradedev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="mailto:hugo@hoandrade.dev">
   <img src="https://img.shields.io/badge/E--mail-111111?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -114,3 +114,13 @@ class HugoAndrade:
 > Building technology that combines intelligence, engineering, automation, and sophisticated user experiences.
 
 ---
+
+<div align="center">
+
+## Explore My Portfolio
+
+<a href="https://www.hoandrade.dev" target="_blank">
+  www.hoandrade.dev
+</a>
+
+</div>
