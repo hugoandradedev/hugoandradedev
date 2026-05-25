@@ -110,7 +110,6 @@ class HugoAndrade:
 ## 🚀 Explore My Portfolio
 
 Discover AI systems, intelligent products, scalable architectures, and premium digital experiences built with engineering, automation, and applied artificial intelligence.
-
 <br>
 
 <a href="https://www.hoandrade.dev" target="_blank">
