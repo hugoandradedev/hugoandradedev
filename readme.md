@@ -8,9 +8,19 @@ Building intelligent systems, AI-powered applications, autonomous workflows, and
 
 <br>
 
-[Portfolio](https://www.hoandrade.dev) • [LinkedIn](https://www.linkedin.com/in/hugoandradedev/) • [E-mail](mailto:hugo@hoandrade.dev)
+<a href="https://www.hoandrade.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
-<br>
+<a href="https://www.linkedin.com/in/hugoandradedev/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:hugo@hoandrade.dev">
+  <img src="https://img.shields.io/badge/E--mail-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=AI+Agents+%7C+RAG+%7C+Automation;Scalable+AI+Architectures;Generative+AI+%26+Intelligent+Systems;Building+Technology+That+Feels+Inevitable" />
 
@@ -104,11 +114,3 @@ class HugoAndrade:
 > Building technology that combines intelligence, engineering, automation, and sophisticated user experiences.
 
 ---
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af&icon_color=ffffff" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af" />
-
-</div>
