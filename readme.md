@@ -15,20 +15,11 @@ Building intelligent systems, AI-powered applications, autonomous workflows, and
 
 <br><br>
 
-```bash
-> initializing AI assistant...
+<div align="center">
 
-👋 Hello, visitor.
-My name is Hugo Andrade.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%3E+Initializing+AI+Assistant...;%3E+Hello%2C+I'm+Hugo+Andrade;%3E+AI+Engineer+%26+Systems+Builder;%3E+Building+intelligent+digital+experiences" />
 
-AI Engineer specialized in:
-→ Intelligent Systems
-→ AI Agents
-→ RAG Architectures
-→ Scalable AI Products
-
-Status: Building the future with AI.
-```
+</div>
 
 </div>
 
