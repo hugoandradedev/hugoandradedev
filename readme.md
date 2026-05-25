@@ -48,7 +48,7 @@ class HugoAndrade:
 ---
 
 ## What I'm Building
-
+```txt
 - AI-powered SaaS platforms
 - Autonomous AI workflows
 - Multi-agent systems with Agno
@@ -57,7 +57,7 @@ class HugoAndrade:
 - NLP & Computer Vision applications
 - Scalable AI backend infrastructures
 - Premium AI product experiences
-
+```
 ---
 
 ## AI & Backend Stack
