@@ -122,7 +122,7 @@ Discover AI systems, intelligent products, scalable architectures, and premium d
 <br>
 
 <a href="https://www.hoandrade.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20hoandrade.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </div>
